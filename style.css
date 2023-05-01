@@ -1,0 +1,93 @@
+body {
+  min-height: 100vh;
+  height: 100vh;
+  scroll-behavior: smooth;
+}
+/*nav-tag*/
+.nav-tag {
+  background-color: #f8f9fa;
+  height: 100px;
+}
+.nav-link {
+  color: black;
+}
+.nav-link:hover {
+  background-color: #d0a772;
+  width: 70px;
+  text-align: center;
+  color: white;
+}
+/*logo*/
+.logo-tag {
+  margin-left: 80px;
+}
+/**/
+.nav-item {
+  padding-left: 50px;
+}
+
+.text-h {
+  font-weight: bolder;
+  font-size: 50px;
+  font-family: "Satisfy", cursive;
+  margin-left: -350px;
+  margin-top: -380px;
+}
+.text-p {
+  margin-top: 10px;
+  margin-left: -350px;
+  line-height: 30px;
+}
+.button-tag {
+  margin-left: -200px;
+}
+.img-thumbnail {
+  margin-top: 70px;
+}
+.text-h2 {
+  text-align: right;
+  margin-top: -460px;
+}
+.button-tag2 {
+  text-align: center;
+  margin-left: 300px;
+  margin-top: 40px;
+}
+#section-background {
+  background-image: url(./img/top-view-table-full-delicious-food-composition.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  filter: scale(0.6);
+}
+.footer-tag {
+  background-color: #d0a772;
+  height: 100px;
+  width: 100%;
+  position: absolute;
+  margin-top: 50px;
+}
+.foot-div {
+  background-color: white;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-left: 180px;
+  margin-top: 20px;
+}
+.foot-div2 {
+  background-color: white;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-left: 44%;
+  margin-top: -60px;
+}
+.foot-div3 {
+  background-color: white;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-left: 73%;
+  margin-top: -58px;
+}
